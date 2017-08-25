@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css?family=News+Cycle');
+
+body {
+  box-sizing: border-box;
+  background-color: black;
+  padding-top: 70px;
+  padding-bottom: 70px;
+  font-family: 'News Cycle', sans-serif;
+}
+.jumbotron {
+  background-image: url(../../assets/images/travel_hero.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: white;
+  min-height: 485px;
+  margin-bottom: 100px;
+  text-shadow: 1.5px 1.5px black;
+}
+
+.jumbotron h1 {
+  padding-top: 50px;
+}
+
+
+.jumbotron h2 {
+  padding-top: 40px;
+}
+
+.jumbotron h4 {
+  padding-top: 40px;
+}
+
+.navbar {
+  background-color: black;
+}
+
+
+.table {
+  background-color: white;
+  /*width: 80%;*/
+}
+
+.table td {
+  width: 20%;
+}
+
+
+
+.col-md-3 div {
+  background-color: white;
+  padding-top: 2px;
+  padding-bottom: 10px;
+  margin-top: 10px;
+  border-radius: 5%;
+  vertical-align: center;
+}
+
+
+.table_style {
+  background-color: white;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
